@@ -1,0 +1,6 @@
+framework module Pods_CRUDAppUTNGUITests {
+  umbrella header "Pods-CRUDAppUTNGUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
